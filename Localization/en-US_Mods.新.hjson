@@ -1,0 +1,562 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	见: {
+		DisplayName: 见
+		Tooltip: ""
+	}
+
+	草鞋: {
+		DisplayName: 草鞋
+		Tooltip: 基础移动属性
+	}
+
+	旋风: {
+		Tooltip:
+			'''
+			射出无限智慧巨著的旋风
+			打个der塔防，塔防真tm烦
+			'''
+		DisplayName: 旋风
+	}
+
+	种子箭: {
+		Tooltip: 射出种子弯刀的种子
+		DisplayName: 种子箭
+	}
+
+	基础药: {
+		Tooltip: 给予玩家许多基础buff
+		DisplayName: 基础药
+	}
+
+	南瓜: {
+		DisplayName: 南瓜
+		Tooltip: 射出南瓜
+	}
+
+	南瓜箭: {
+		DisplayName: 南瓜箭
+		Tooltip: 射出南瓜
+	}
+
+	空灾箭: {
+		DisplayName: 空灾箭
+		Tooltip:
+			'''
+			射出空中祸害的箭矢
+			打个der塔防，塔防真tm烦
+			'''
+	}
+
+	精密基石: {
+		DisplayName: 精密基石
+		Tooltip: 精密基石符文，用于合成精密系列符文
+	}
+
+	征服者药水: {
+		DisplayName: 征服者药水
+		Tooltip: 使用以给予征服者霸符
+	}
+
+	致命节奏药水: {
+		DisplayName: 致命节奏药水
+		Tooltip: 使用以给予致命节奏霸符
+	}
+
+	十字镐: {
+		DisplayName: 十字镐
+		Tooltip: 加5%伤害，攻击附加扣血霸符
+	}
+
+	收集者: {
+		DisplayName: 收集者
+		Tooltip:
+			'''
+			加10%伤害，20%暴击，18穿甲，攻击有5概率造成999%流血，斩杀10%以下生命值的目标
+			敌人额外掉落25块大洋（还是没有实现）
+			'''
+	}
+
+	灵巧披风: {
+		DisplayName: 灵巧披风
+		Tooltip: 加10%暴击
+	}
+
+	锯齿短匕: {
+		DisplayName: 锯齿短匕
+		Tooltip: 加5%伤害。10穿甲
+	}
+
+	电刑药水: {
+		DisplayName: 电刑药水
+		Tooltip: 给予使用者电刑霸符
+	}
+
+	相位猛冲药水: {
+		DisplayName: 相位猛冲药水
+		Tooltip: 给予使用者相位猛冲霸符
+	}
+
+	主宰基石: {
+		DisplayName: 主宰基石
+		Tooltip: ""
+	}
+
+	巫术基石: {
+		DisplayName: 巫术基石
+		Tooltip: ""
+	}
+
+	寰星爆发: {
+		DisplayName: 寰星爆发
+		Tooltip:
+			'''
+			倾斜来自天堂的怒火
+			击中敌人会将其防御降到-80，不信你逝逝
+			'''
+	}
+
+	极霸矛: {
+		DisplayName: 极霸矛
+		Tooltip: 牙签？戳啦，这是王爷的武器，极霸矛嘛
+	}
+
+	战争律动药水: {
+		DisplayName: 战争律动药水
+		Tooltip: 攻击额外造成目标当前生命8%额外伤害，冷却4秒
+	}
+
+	狂风之力: {
+		DisplayName: 狂风之力
+		Tooltip:
+			'''
+			射出的弹幕伤害受2.5倍暴击率加成，刚开始较弱
+			附加0.5%目标已损失生命值的伤害
+			叠暴击就完了，还要多想吗(●'◡'●)
+			右键获得狂风之力霸符3秒，提供爆发性移速以及少许攻速
+
+			'''
+	}
+
+	卢安娜的飓风: {
+		DisplayName: 卢安娜的飓风
+		Tooltip: 额外发射两次弹幕，伤害为原弹幕的25%
+	}
+
+	狂热: {
+		DisplayName: 狂热
+		Tooltip:
+			'''
+			增加5%伤害
+			增加10%攻速
+			增加10%移速
+			增加5%暴击
+			'''
+	}
+
+	守望者铠甲: {
+		DisplayName: 守望者铠甲
+		Tooltip:
+			'''
+			玩家所受伤害减少20%
+			被攻击时回复少量生命，该值为所受伤害*0.1+10
+			'''
+	}
+
+	巨人腰带: {
+		DisplayName: 巨人腰带
+		Tooltip: 最大生命值加50
+	}
+
+	布甲: {
+		DisplayName: 布甲
+		Tooltip: 玩家所受伤害减少4%
+	}
+
+	真生命水晶: {
+		DisplayName: 真生命水晶
+		Tooltip: 最大生命值加20
+	}
+
+	兰顿: {
+		Tooltip:
+			'''
+			最大生命加80
+			减少20%所受伤害
+			拥有守望者铠甲的效果
+			按下指定按键回复少许生命，对附近敌人造成100+玩家防御*15的伤害后使玩家再增加10%减伤,持续10秒，冷却30秒
+			'''
+		DisplayName: 兰顿
+	}
+
+	手持坠星: {
+		DisplayName: 手持坠星
+		Tooltip: 前期过渡武器，适用于群怪
+	}
+
+	点火杖: {
+		DisplayName: 点火杖
+		Tooltip: 前期过渡武器，适用于单体
+	}
+
+	无尽之刃: {
+		DisplayName: 无尽之刃
+		Tooltip:
+			'''
+			增加20%伤害，弹幕造成50%额外伤害，真近战造成80%额外伤害
+			最极致的攻击，往往只需最简单的代码
+			'''
+	}
+
+	大帽子: {
+		DisplayName: 大帽子
+		Tooltip:
+			'''
+			矗立于精神顶点的物品，将所有法术和召唤伤害乘以1.6倍（加算是加物品基础伤害的百分比，乘算是物品总攻击乘以倍数）
+			法术和召唤伤害造成额外120+当前武器伤害*0.3的伤害，该伤害在目标生命低于50%时暴击
+			和无尽一样，最极致的伤害只需比最简单的代码稍微复杂一点的代码
+			'''
+	}
+
+	无用大棒: {
+		DisplayName: 无用大棒
+		Tooltip:
+			'''
+			增加30%法术和召唤伤害
+			攻击造成额外50+0.15*当前武器伤害
+			'''
+	}
+
+	恶魂: {
+		DisplayName: 恶魂
+		Tooltip:
+			'''
+			射出恐怖关刀的恶魂
+			打个der塔防，塔防真tm烦
+			'''
+	}
+
+	增幅典籍: {
+		DisplayName: 增幅典籍
+		Tooltip: 少量增幅召唤和魔法伤害，各5%，且这两种武器造成额外伤害
+	}
+
+	银针: {
+		DisplayName: 银针
+		Tooltip: ""
+	}
+
+	禅杖: {
+		DisplayName: 禅杖
+		Tooltip:
+			'''
+			一根普通的法杖，点击射出水魔爆，右键回血
+			每2点蓝量提升1%伤害
+			a common staff ，left click to shoot water light column,right click to heal 10 life
+			'''
+	}
+
+	禅杖改: {
+		DisplayName: 禅杖改
+		Tooltip: 禅杖的另一种攻击方式
+	}
+
+	地煞权杖: {
+		DisplayName: 地煞权杖
+		Tooltip:
+			'''
+			在鼠标位置引出一道光柱，攻击倍率为3
+			每2点蓝量提升1%伤害
+			持握时，给玩家增加5点防御，并增加回蓝
+			右键回复20点生命值
+			'''
+	}
+
+	血海邪皇: {
+		DisplayName: 血海邪皇
+		Tooltip:
+			'''
+			在鼠标位置引出一道光柱，攻击倍率为3
+			每2点蓝量提升1%伤害
+			持握时，给玩家增加7%伤害，并增加回蓝
+			右键回复30点生命值，并获得润物无声buff，生命回复效果提升50%			
+			'''
+	}
+
+	水魔爆二级技能书: {
+		DisplayName: 水魔爆二级技能书
+		Tooltip: 使所有水魔爆伤害提升至五倍
+	}
+
+	九环禅杖: {
+		DisplayName: 九环禅杖
+		Tooltip:
+			'''
+			在鼠标位置引出一道光柱，攻击倍率为8
+			每2点蓝量提升1%伤害
+			持握时，给玩家增加7%减伤，并增加回蓝
+			右键回复80点生命值，并获得润物无声buff，生命回复效果提升50%			
+			'''
+	}
+
+	地煞改: {
+		DisplayName: 地煞改
+		Tooltip: 地煞权杖的另一种攻击方式
+	}
+
+	血海改: {
+		DisplayName: 血海改
+		Tooltip: 血海邪皇的另一种攻击方式
+	}
+}
+
+Prefixes: {
+	冠世.DisplayName: 冠世
+	幽魂.DisplayName: 幽魂
+	绝世.DisplayName: 绝世
+	超然.DisplayName: 超然
+	神力.DisplayName: 神力
+	回复二.DisplayName: 回复二
+	回复一.DisplayName: 回复一
+}
+
+Buffs: {
+	征服一: {
+		DisplayName: 征服一
+		Description: 伤害加2%
+	}
+
+	征服三: {
+		DisplayName: 征服三
+		Description: 伤害加2%
+	}
+
+	征服二: {
+		DisplayName: 征服二
+		Description: 伤害加2%
+	}
+
+	征服五: {
+		DisplayName: 征服五
+		Description: 伤害加2%
+	}
+
+	征服六: {
+		DisplayName: 征服六
+		Description: 伤害加2%并获得吸血
+	}
+
+	征服四: {
+		DisplayName: 征服四
+		Description: 伤害加2%
+	}
+
+	征服者霸符: {
+		DisplayName: 征服者霸符
+		Description: 攻击敌人获得征服之力
+	}
+
+	致命一: {
+		DisplayName: 致命一
+		Description: 攻速加10%
+	}
+
+	致命三: {
+		DisplayName: 致命三
+		Description: 攻速加10%
+	}
+
+	致命二: {
+		DisplayName: 致命二
+		Description: 攻速加10%
+	}
+
+	致命五: {
+		DisplayName: 致命五
+		Description: 攻速加10%
+	}
+
+	致命六: {
+		DisplayName: 致命六
+		Description: 攻速加30%，加15%暴击
+	}
+
+	致命四: {
+		DisplayName: 致命四
+		Description: 攻速加10%
+	}
+
+	致命节奏霸符: {
+		DisplayName: 致命节奏霸符
+		Description: 攻击敌人以获得攻速
+	}
+
+	十字改: {
+		DisplayName: 十字改
+		Description: 开启十字镐效果
+	}
+
+	十字镐霸符: {
+		DisplayName: 十字镐霸符
+		Description: 攻击造成持续扣血
+	}
+
+	披风改: {
+		DisplayName: 披风改
+		Description: 暴击增加10%
+	}
+
+	收集改: {
+		DisplayName: 收集改
+		Description: 开启收集者效果
+	}
+
+	收集霸符: {
+		DisplayName: 收集霸符
+		Description: 攻击敌人概率扣血
+	}
+
+	死与税: {
+		DisplayName: 死与税
+		Description: Mods.新.Buffs.死与税.Description
+	}
+
+	锯齿改: {
+		DisplayName: 锯齿改
+		Description: 开启锯齿短匕效果
+	}
+
+	电刑冷却: {
+		DisplayName: 电刑冷却
+		Description: 电刑冷却中
+	}
+
+	电刑效果: {
+		DisplayName: 电刑效果
+		Description: 开启电刑效果
+	}
+
+	电刑霸符: {
+		DisplayName: 电刑霸符
+		Description: 攻击敌人三次造成500+当前武器伤害倍数额外伤害，在困难模式提升至1200
+	}
+
+	相位猛冲冷却: {
+		DisplayName: 相位猛冲冷却
+		Description: 相位猛冲冷却中
+	}
+
+	相位猛冲效果: {
+		DisplayName: 相位猛冲效果
+		Description: 移速加135
+	}
+
+	相位猛冲霸符: {
+		DisplayName: 相位猛冲霸符
+		Description: 攻击敌人三次获得爆发移速持续三秒，并免疫减速
+	}
+
+	dd: {
+		DisplayName: dd
+		Description: Mods.新.Buffs.dd.Description
+	}
+
+	战争律动霸符: {
+		DisplayName: 战争律动霸符
+		Description: 每隔一段时间造成额外伤害
+	}
+
+	战争律动冷却: {
+		DisplayName: 战争律动冷却
+		Description: 冷却中
+	}
+
+	飓风霸符: {
+		DisplayName: 飓风霸符
+		Description: 发射额外二次弹幕
+	}
+
+	狂风冷却: {
+		DisplayName: 狂风冷却
+		Description: 冷却中
+	}
+
+	狂风加速: {
+		DisplayName: 狂风加速
+		Description: 移动力大幅提升
+	}
+
+	谦卑: {
+		Description: 加10%减伤
+		DisplayName: 谦卑
+	}
+
+	兰顿冷却: {
+		Description: 冷却中
+		DisplayName: 兰顿冷却
+	}
+
+	dl: {
+		DisplayName: dl
+		Description: Mods.新.Buffs.dl.Description
+	}
+
+	无尽之力: {
+		DisplayName: 无尽之力
+		Description: 攻击造成50%额外伤害
+	}
+
+	mannaCd: {
+		DisplayName: 天降甘露cd
+		Description: 冷却中
+	}
+
+	水魔二: {
+		DisplayName: 水魔二
+		Description: 所有水魔爆伤害提升至500%
+	}
+
+	九环霸符: {
+		DisplayName: 九环霸符
+		Description: 增加7%免伤
+	}
+
+	地煞霸符: {
+		DisplayName: 地煞霸符
+		Description: 增加5防御
+	}
+
+	血海霸符: {
+		DisplayName: 血海霸符
+		Description: 增加7%伤害
+	}
+
+	润物无声: {
+		DisplayName: 润物无声
+		Description: 生命恢复提高50%
+	}
+}
+
+Projectiles: {
+	星星.DisplayName: 星星
+	星黄.DisplayName: 星黄
+	极霸矛弹幕.DisplayName: 极霸矛弹幕
+	暴雨梨花弹.DisplayName: 暴雨梨花弹
+	狂风之力弹幕.DisplayName: 狂风之力弹幕
+	兰顿弹幕.DisplayName: 兰顿弹幕
+	手持坠星弹幕.DisplayName: 手持坠星弹幕
+	火.DisplayName: 火
+	火花.DisplayName: 火花
+	针弹幕.DisplayName: 针弹幕
+	水.DisplayName: 水
+	水弹.DisplayName: 水弹
+	manna.DisplayName: manna
+	水三.DisplayName: 水三
+	水二.DisplayName: 水二
+	火水.DisplayName: 火水
+	水弹三.DisplayName: 水弹三
+	水弹二.DisplayName: 水弹二
+}
+
+Keybinds.谦卑.DisplayName: 谦卑
