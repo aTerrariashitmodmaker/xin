@@ -1,0 +1,12 @@
+这个模组是从143移植到144的，时间问题，没有全移。新增了征服者和致命节奏符文，以及收集者系列buff，效果和联盟的差不多
+v0.2新增电刑和相位猛冲
+v0.2114514新增极霸矛（王爷的武器），寰星爆发（一把无视无敌帧的武器）
+v0.3114514新增狂风之力，对部分物品调整
+v0.4114514修改部分物品合成，新增红水晶，巨人腰带,布甲，守望者铠甲
+v0.5114514新增兰顿之兆
+v0.6114514新增无尽之刃，灭世者的死亡之帽，以及他们的下位，修改部分数值
+修改草鞋属性为加算，这样开启狂风主动时就不会被草鞋吞效果了，加强战斗药水，磕了以后刷怪率大幅增加
+v0.7114514新增水魔爆系列
+v0.8114514修改部分数值
+this mod add some item from League Of Legends,it can help you cause more damage in the game 
+my english is not good and I write this introduction onmyself,please do not mind
